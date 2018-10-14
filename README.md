@@ -1,6 +1,6 @@
 # Svoboda-Diaries
 Historical texts for the Svoboda Diaries Project
-This respository contains the final transcriptions for the diaries of Joseph Mathia Svoboda.
+This respository contains the final transcriptions (plain txt files) for the diaries of Joseph Mathia Svoboda.
 Diaries completed as of 10/2018:
     - Diary 47
     - Diary 48
